@@ -10,6 +10,8 @@ This repository contains all of the notes taken by Eva for the Lighthouse Labs W
 
 * Week 1
   * Day 1
-    1. Item One 
-    2. Item Two
-    3. Item Three
+    
+    
+1. Item One 
+2. Item Two
+3. Item Three
