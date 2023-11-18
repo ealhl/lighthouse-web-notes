@@ -5,3 +5,5 @@
 ### Summary 
 
 This repository contains all of the notes taken by Eva for the Lighthouse Labs Web Development Bootcamp.
+
+...taken by [Eva](https://github.com/ealhl/lighthouse-web-notes) for the...
